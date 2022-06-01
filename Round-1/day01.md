@@ -1,0 +1,29 @@
+<div align="center">
+  <h1>Round 1</h1>
+  <p>Day 1</p>
+
+  <sub>
+    Author: <a href="https://github.com/plskz" target="_blank">Zai Santillan</a>
+    <br>
+    <small>June 1, 2022 - Wednesday</small>
+  </sub>
+</div>
+
+### Today's Progress:
+
+- relearned what tail recursion is
+- freeCodeCamp: resolve some problems on [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures) and [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting)
+- read some blogs (tech related)
+
+### Notes:
+
+- [Tail Recursion](https://github.com/plskx/notes/tree/main/Random/recursion)
+
+### Thoughts:
+
+- started [100-days-of-code](https://github.com/plskx/100-days-of-code) today. wish to have a great journey
+
+### Resources:
+
+- [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
+- [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
