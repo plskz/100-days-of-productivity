@@ -9,7 +9,7 @@ It's a challenge for 100 days to make a habit of everyday coding to develop my s
 
 ## **Rounds**
 
-### [Round 1](Round-1%5CREADME.md)
+### [Round 1](Round-1/README.md)
 
 |  Start Date  | End Date  |
 | :----------: | :-------: |
