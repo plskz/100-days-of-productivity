@@ -9,6 +9,8 @@
   </sub>
 </div>
 
+[<< Day 0](README.md) | [Day 2 >>](day02.md)
+
 ### Today's Progress:
 
 - relearned what tail recursion is
@@ -27,3 +29,5 @@
 
 - [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd/)
 - [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645/)
+
+[<< Day 0](README.md) | [Day 2 >>](day02.md)
