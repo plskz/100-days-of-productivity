@@ -1,0 +1,109 @@
+<div align="center">
+  <h1>Round 1</h1>
+  <p>Day 2</p>
+
+  <sub>
+    Author: <a href="https://github.com/plskz" target="_blank">Zai Santillan</a>
+    <br>
+    <small>June 2, 2022 - Thursday</small>
+  </sub>
+</div>
+
+[<< Day 1](day01.md) | [Day 3 >>](day03.md)
+
+### Today's Progress:
+
+- freeCodeCamp: [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+  - Finished jQuery
+  - Started React
+
+- spent 1hr setting up my [wakatime](https://wakatime.com)'s [custom rules](https://wakatime.com/settings/rules) and [wakatime browser extension](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi)
+
+  - Custom Rules
+
+    ![image](https://user-images.githubusercontent.com/57343545/171640364-031541fe-855c-430d-9e64-5fd2cc38258b.png)
+
+    - Building
+      - chrome://
+      - heroku
+      - opera://
+      - vercel
+      - wakatime
+    - Code Reviewing
+      - gitlab
+      - github
+    - Coding
+      - codeforces
+      - codepen
+      - codesandbox
+      - leetcode
+      - repl.it
+      - stackblitz
+    - Debugging
+      - stackoverflow
+    - Designing
+      - figma
+      - framer
+    - Indexing
+      - mail
+    - Learning
+      - .pdf
+      - developer.mozilla.org
+      - freecodecamp
+      - javascript.info
+      - nextjs
+      - reactjs
+      - tailwindcss
+      - theodinproject
+    - Planning
+      - trello
+    - Researching
+      - dev.to
+      - medium
+
+  - Ignored Sites:
+    ```
+    anilist.co
+    brain.fm
+    facebook.com
+    messenger.com
+    music.youtube.com
+    netflix.com
+    open.spotify.com
+    premid.app
+    spotify.com
+    twitter.com
+    youtube.com
+    ```
+
+### Notes:
+
+- This is my [wakatime stats](https://wakatime.com/@plskz) as of `June 2, 2022 - 11:48 PM`
+
+  ![image](https://user-images.githubusercontent.com/57343545/171669597-6bd1fb66-7c99-47cc-be69-1246b9818c9b.png)
+
+  ![image](https://user-images.githubusercontent.com/57343545/171670349-1143c063-8f3f-43d3-8bbc-7d073ba34eb2.png)
+
+### Thoughts:
+
+- I was very productive this morning but in the afternoon I fell asleep. I slept all afternoon lmaoo
+- Got distracted on [Midjourney](https://www.midjourney.com)'s discord server around `10:54 PM`
+
+  ![image](https://user-images.githubusercontent.com/57343545/171672003-3699d1ee-30f7-4f12-ab89-e3826c30a434.png)
+
+  ![image](https://user-images.githubusercontent.com/57343545/171672265-80c77345-1e7d-4672-b062-6435ae35b64a.png)
+
+  ![image](https://user-images.githubusercontent.com/57343545/171672399-11244258-2627-4792-835e-aeb73538a77a.png)
+
+  and here's my favorite
+
+  ![ragdoll cat in deep space](https://user-images.githubusercontent.com/57343545/171672496-f78d42fb-6f2b-452f-8379-12d290d44a29.png)
+
+### Resources:
+
+- [freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- [Midjourney](https://www.midjourney.com)
+- twitter: [@midjourney](https://twitter.com/midjourney)
+
+[<< Day 1](day01.md) | [Day 3 >>](day03.md)
