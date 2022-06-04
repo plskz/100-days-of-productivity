@@ -1,0 +1,38 @@
+<div align="center">
+  <h1>Round 1</h1>
+  <p>Day 3</p>
+
+  <sub>
+    Author: <a href="https://github.com/plskz" target="_blank">Zai Santillan</a>
+    <br>
+    <small>June 3, 2022 - Friday</small>
+  </sub>
+</div>
+
+[<< Day 2](day02.md) | [Day 4 >>](day04.md)
+
+### Today's Progress:
+
+- freeCodeCamp: [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+  - almost finished at [React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react)
+
+### Notes:
+
+- I saw [bionic reading](https://github.com/ansh/bionic-reading) in some random discord server when I woke up, and then I decided to try it after finishing my lunch. It is extremely helpful. It's almost as if reading had a 1.5X speed button.
+
+  Read more about [Bionic Reading](https://bionic-reading.com/about/).
+
+  ![x](https://user-images.githubusercontent.com/57343545/171876443-a172c24e-173c-4058-a19c-2cbe4d4d1c28.jpg)
+
+### Thoughts:
+
+- relearning react class component is fun
+
+### Resources:
+
+- [freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- [github.com/ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com)
+- [jiffyreader](https://www.jiffyreader.com)
+
+[<< Day 2](day02.md) | [Day 4 >>](day04.md)
