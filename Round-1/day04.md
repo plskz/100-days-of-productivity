@@ -1,0 +1,35 @@
+<div align="center">
+  <h1>Round 1</h1>
+  <p>Day 4</p>
+
+  <sub>
+    Author: <a href="https://github.com/plskz" target="_blank">Zai Santillan</a>
+    <br>
+    <small>June 4, 2022 - Saturday</small>
+  </sub>
+</div>
+
+[<< Day 3](day03.md) | [Day 5 >>](day05.md)
+
+### Today's Progress:
+
+- freeCodeCamp: [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+  - Finished React
+- relearning python
+
+### Read:
+
+- [Index as a key is an anti-pattern](https://robinpokorny.medium.com/index-as-a-key-is-an-anti-pattern-e0349aece318)
+
+### Thoughts:
+
+- I was relearning python earlier because of commission and found some random complicated problem, I end up not solving both because I was easily distracted experimenting on python shits and also I got bored solving the problem
+- relearning python is fun tho I still don't like it
+- useless today
+
+### Resources:
+
+- [Index as a key is an anti-pattern](https://robinpokorny.medium.com/index-as-a-key-is-an-anti-pattern-e0349aece318)
+- [Python Cheatsheet](https://www.pythoncheatsheet.org)
+
+[<< Day 3](day03.md) | [Day 5 >>](day05.md)
