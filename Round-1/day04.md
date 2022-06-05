@@ -29,7 +29,7 @@
 
 ### Resources:
 
-- [Index as a key is an anti-pattern](https://robinpokorny.medium.com/index-as-a-key-is-an-anti-pattern-e0349aece318)
+- [freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 - [Python Cheatsheet](https://www.pythoncheatsheet.org)
 
 [<< Day 3](day03.md) | [Day 5 >>](day05.md)
