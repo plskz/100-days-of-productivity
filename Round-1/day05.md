@@ -1,0 +1,29 @@
+<div align="center">
+  <h1>Round 1</h1>
+  <p>Day 5</p>
+
+  <sub>
+    Author: <a href="https://github.com/plskz" target="_blank">Zai Santillan</a>
+    <br>
+    <small>June 5, 2022 - Sunday</small>
+  </sub>
+</div>
+
+[<< Day 4](day04.md) | [Day 6 >>](day06.md)
+
+### Today's Progress:
+
+- I created [day template automation](https://gist.github.com/plskz/b85fe24aebc16732f9749726b97dafdb) for my [100 Days of Code](../README.md)
+- freeCodeCamp: [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+  - Started Redux
+
+### Thoughts:
+
+- kinda unproductive today. hope this never happens again.
+
+### Resources:
+
+- gist: [plskz/100DoC_automation.md](https://gist.github.com/plskz/b85fe24aebc16732f9749726b97dafdb)
+- [freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+[<< Day 4](day04.md) | [Day 6 >>](day06.md)
