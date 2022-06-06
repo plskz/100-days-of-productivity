@@ -1,0 +1,30 @@
+<div align="center">
+  <h1>Round 1</h1>
+  <p>Day 6</p>
+
+  <sub>
+    Author: <a href="https://github.com/plskz" target="_blank">Zai Santillan</a>
+    <br>
+    <small>June 6, 2022 - Monday</small>
+  </sub>
+</div>
+
+[<< Day 5](day05.md) | [Day 7 >>](day07.md)
+
+### Today's Progress:
+
+- freeCodeCamp: [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+  - Finished Redux
+
+### Thoughts:
+
+- I need to fix my sleep pattern again. It's fucked up. I slept at 7 am earlier because I got distracted in [Midjourney](https://www.midjourney.com/)'s discord server.
+  - uploaded in [#z-midjourney](https://discord.com/channels/757590934828613662/983400299295309884/983400701071867965)
+- learning redux is fun.
+
+### Resources:
+
+- [freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+- [Devhints: Redux cheatsheet](https://devhints.io/redux)
+
+[<< Day 5](day05.md) | [Day 7 >>](day07.md)
