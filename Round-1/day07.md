@@ -1,0 +1,37 @@
+<div align="center">
+  <h1>Round 1</h1>
+  <p>Day 7</p>
+
+  <sub>
+    Author: <a href="https://github.com/plskz" target="_blank">Zai Santillan</a>
+    <br>
+    <small>June 7, 2022 - Tuesday</small>
+  </sub>
+</div>
+
+[<< Day 6](day06.md) | [Day 8 >>](day08.md)
+
+### Today's Progress:
+
+- made artstation account
+  - [artstation.com/plskz](https://www.artstation.com/plskz)
+- freeCodeCamp: [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+  - Finished React and Redux
+
+### Notes:
+
+- This is my [wakatime stats](https://wakatime.com/@plskz) as of `June 7, 2022 - 11:59 PM`
+
+  ![image](https://user-images.githubusercontent.com/57343545/172446526-b2963893-bec5-4f3a-b4fb-5fbadf995a0f.png)
+
+  ![image](https://user-images.githubusercontent.com/57343545/172447038-9c11985f-a1db-4685-9641-0eec2913d600.png)
+
+### Thoughts:
+
+- yet another unproductive afternoon. fockk
+
+### Resources:
+
+- [freeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
+
+[<< Day 6](day06.md) | [Day 8 >>](day08.md)
