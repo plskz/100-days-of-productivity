@@ -3,7 +3,7 @@
 **Main target:**
 
 - I will code for at least 2 hours every day for the next 100 days.
-- Strive to be better today than you were yesterday.
+- I will strive to be better today than I was yesterday.
 
 I want to enhance my coding abilities, therefore I'm going to make it a goal for the next 100 days to write code every single day. I was motivated by [Alexander Kallaway](https://github.com/Kallaway)'s #100DaysOfCode challenge.
 
