@@ -14,6 +14,9 @@
 
 - [x] Complete [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 - [ ] Complete [FreeCodeCamp: Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
+- [ ] Complete [Learn GraphQL, In One Week](https://oneweekgraphql.com)
+- [ ] Complete [The Odin Project: Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+- [ ] Complete [The Odin Project: Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 
 ### Projects List
 
