@@ -30,5 +30,8 @@
 |  6  |               [Oishii](https://github.com/plskz/oishii/)                | [Day 018](day018.md) |
 |  7  |      [Birthday Reminder](https://github.com/plskz/react-projects)       | [Day 019](day019.md) |
 |  8  |            [Tours](https://github.com/plskz/react-projects)             | [Day 019](day019.md) |
+|  9  |           [Reviews](https://github.com/plskz/react-projects)            | [Day 020](day020.md) |
+| 10  |          [Accordion](https://github.com/plskz/react-projects)           | [Day 020](day020.md) |
+| 11  |             [Menu](https://github.com/plskz/react-projects)             | [Day 020](day020.md) |
 
 [Day 1 >>](day001.md)
