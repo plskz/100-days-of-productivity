@@ -28,5 +28,7 @@
 |  4  | [JavaScript Calculator](https://github.com/plskx/javascript-calculator) | [Day 014](day014.md) |
 |  5  |           [25 + 5 Clock](https://github.com/plskx/25-5-Clock)           | [Day 014](day014.md) |
 |  6  |               [Oishii](https://github.com/plskz/oishii/)                | [Day 018](day018.md) |
+|  7  |      [Birthday Reminder](https://github.com/plskz/react-projects)       | [Day 019](day019.md) |
+|  8  |            [Tours](https://github.com/plskz/react-projects)             | [Day 019](day019.md) |
 
 [Day 1 >>](day001.md)
