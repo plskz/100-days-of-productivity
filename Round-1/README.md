@@ -33,5 +33,7 @@
 |  9  |           [Reviews](https://github.com/plskz/react-projects)            | [Day 020](day020.md) |
 | 10  |          [Accordion](https://github.com/plskz/react-projects)           | [Day 020](day020.md) |
 | 11  |             [Menu](https://github.com/plskz/react-projects)             | [Day 020](day020.md) |
+| 12  |             [Tabs](https://github.com/plskz/react-projects)             | [Day 021](day021.md) |
+| 13  |            [Slider](https://github.com/plskz/react-projects)            | [Day 021](day021.md) |
 
 [Day 1 >>](day001.md)
