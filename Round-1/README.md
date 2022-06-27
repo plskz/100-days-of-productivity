@@ -36,5 +36,8 @@
 | 12  |             [Tabs](https://github.com/plskz/react-projects)             | [Day 021](day021.md) |
 | 13  |            [Slider](https://github.com/plskz/react-projects)            | [Day 021](day021.md) |
 | 14  |         [Lorem Ipsum](https://github.com/plskz/react-projects)          | [Day 022](day022.md) |
+| 15  |       [Color Generator](https://github.com/plskz/react-projects)        | [Day 024](day024.md) |
+| 16  |         [Grocery Bud](https://github.com/plskz/react-projects)          | [Day 027](day027.md) |
+| 17  |            [Navbar](https://github.com/plskz/react-projects)            | [Day 027](day027.md) |
 
 [Day 1 >>](day001.md)
