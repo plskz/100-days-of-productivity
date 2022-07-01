@@ -41,5 +41,6 @@
 | 17  |            [Navbar](https://github.com/plskz/react-projects)            | [Day 027](day027.md) |
 | 18  |       [Sidebar & Modal](https://github.com/plskz/react-projects)        | [Day 029](day029.md) |
 | 19  |       [Stripe Submenus](https://github.com/plskz/react-projects)        | [Day 029](day029.md) |
+| 20  |             [Cart](https://github.com/plskz/react-projects)             | [Day 030](day030.md) |
 
 [Day 1 >>](day001.md)
