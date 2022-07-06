@@ -1,20 +1,18 @@
 # Round 1
 
-|        Start Date         | End Date  |
-| :-----------------------: | :-------: |
-| [June 1, 2022](day001.md) | --------- |
+|        Start Date         | End Date  |  Status  |
+| :-----------------------: | :-------: | :------: |
+| [June 1, 2022](day001.md) | --------- | On-going |
 
 ### Reminders
 
 - Learn something new everyday
 - Make some real world projects for my portfolio
-- Get a good grasp on Node.js & server-side javascript
 
 ### Goals
 
 - [x] Complete [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 - [ ] Complete [FreeCodeCamp: Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
-- [ ] Complete [Learn GraphQL, In One Week](https://oneweekgraphql.com)
 - [ ] Complete [The Odin Project: Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 - [ ] Complete [The Odin Project: Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 
@@ -44,4 +42,4 @@
 | 20  |             [Cart](https://github.com/plskz/react-projects)             | [Day 030](day030.md) |
 | 21  |          [Cocktails](https://github.com/plskz/react-projects)           | [Day 031](day031.md) |
 
-[Day 1 >>](day001.md)
+[<< Home](../README.md) | [Day 1 >>](day001.md)
