@@ -14,19 +14,9 @@ More details about the challenge can be found here:
 
 ## Rounds
 
-### [Round 1](Round-1/README.md)
-
-|  Start Date  | End Date  |
-| :----------: | :-------: |
-| June 1, 2022 | --------- |
-
-## Completed Projects List
-
-|  #  | Project Title | Completed On |
-| :-: | :-----------: | :----------: |
-|  1  |  -----------  |  ----------  |
-|  2  |  -----------  |  ----------  |
-|  3  |  -----------  |  ----------  |
+|         Round          | Start Date | End Date |  Status  |
+| :--------------------: | :--------: | :------: | :------: |
+| [1](Round-1/README.md) | ---------- | -------- | -------- |
 
 ## Motivation
 
