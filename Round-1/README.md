@@ -41,5 +41,6 @@
 | 19  |       [Stripe Submenus](https://github.com/plskz/react-projects)        | [Day 029](day029.md) |
 | 20  |             [Cart](https://github.com/plskz/react-projects)             | [Day 030](day030.md) |
 | 21  |          [Cocktails](https://github.com/plskz/react-projects)           | [Day 031](day031.md) |
+| 22  |     [@Erutidians/auto-dop](https://github.com/Erutidians/auto-dop)      | [day 035](day035.md) |
 
 [<< Home](../README.md) | [Day 1 >>](day001.md)
