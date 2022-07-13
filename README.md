@@ -1,22 +1,29 @@
-# 100-days-of-code
+<div align="center">
+  <h1>100-days-of-productivity</h1>
+  <h4>Kaizen · 改善</h4>
+  <sub>becoming one percent better everyday.</sub>
+</div>
 
-**Main target:**
+</br>
+</br>
 
-- I will code for at least 2 hours every day for the next 100 days.
-- I will strive to be better today than I was yesterday.
-
-I want to enhance my coding abilities, therefore I'm going to make it a goal for the next 100 days to write code every single day. I was motivated by [Alexander Kallaway](https://github.com/Kallaway)'s #100DaysOfCode challenge.
+Inspired by [Alexander Kallaway](https://github.com/Kallaway)'s #100DaysOfCode challenge.
 
 More details about the challenge can be found here:
 
 - [100daysofcode.com](http://100daysofcode.com/)
 - [github.com/Kallaway/100-days-of-code](https://github.com/Kallaway/100-days-of-code)
 
+## Main target
+
+- I will code for at least 2 hours every day for the next 100 days.
+- I will strive to be better today than I was yesterday.
+
 ## Rounds
 
-|         Round          | Start Date | End Date |  Status  |
-| :--------------------: | :--------: | :------: | :------: |
-| [1](Round-1/README.md) | ---------- | -------- | -------- |
+|         Round          |  Start Date  | End Date  |  Status  |
+| :--------------------: | :----------: | :-------: | :------: |
+| [1](Round-1/README.md) | June 1, 2022 | --------- | On-going |
 
 ## Motivation
 
