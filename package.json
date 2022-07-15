@@ -9,6 +9,6 @@
     "next": "node index.js next"
   },
   "dependencies": {
-    "@erutidians/auto-dop": "^1.0.2"
+    "@erutidians/auto-dop": "^1.0.4"
   }
 }
