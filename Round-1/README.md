@@ -42,5 +42,6 @@
 | 20  |             [Cart](https://github.com/plskz/react-projects)             | [Day 030](day030.md) |
 | 21  |          [Cocktails](https://github.com/plskz/react-projects)           | [Day 031](day031.md) |
 | 22  |     [@Erutidians/auto-dop](https://github.com/Erutidians/auto-dop)      | [day 035](day035.md) |
+| 23  |                      [Plskz.me](https://plskz.me)                       | [day 047](day047.md) |
 
 [<< Home](../README.md) | [Day 1 >>](day001.md)
