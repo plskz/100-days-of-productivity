@@ -1,3 +1,0 @@
-# Learn
-
-[<< Back](../README.md)
