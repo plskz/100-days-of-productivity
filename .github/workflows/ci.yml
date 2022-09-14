@@ -6,9 +6,16 @@ jobs:
     name: Format Check
     runs-on: ubuntu-latest
     steps:
-      - uses:
-          - actions/checkout@v3
-          - actions/setup-node@v3
-      - run:
-          - npm install
-          - npm run lint:ci
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install node.js v16
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run prettier check
+        run: npm run lint:ci
