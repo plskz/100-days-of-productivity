@@ -11,7 +11,7 @@
     "lint:ci": "prettier --check ."
   },
   "dependencies": {
-    "@erutidians/auto-dop": "^1.0.5"
+    "@erutidians/auto-dop": "^1.1.2"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
