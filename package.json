@@ -7,8 +7,8 @@
     "start": "node index.js",
     "prev": "node index.js prev",
     "next": "node index.js next",
-    "lint": "prettier --check .",
-    "format": "prettier --write ."
+    "lint": "prettier --write .",
+    "lint:ci": "prettier --check ."
   },
   "dependencies": {
     "@erutidians/auto-dop": "^1.0.5"
