@@ -27,5 +27,14 @@ More details about the challenge can be found here:
 
 ## Motivation
 
-![important](https://user-images.githubusercontent.com/57343545/171635977-c8028b1b-32f8-4a21-9c66-772c4722d7f4.png)
-![oreo](https://user-images.githubusercontent.com/57343545/171636489-7ba9a01d-04dc-4cf4-bcc6-e8b7ff796f39.jpg)
+</br>
+
+<div align="center">
+
+![important](https://user-images.githubusercontent.com/57343545/190352028-e1b321f7-206a-4e3b-b2a1-112cdb86f003.png)
+
+</br>
+
+![oreo](https://user-images.githubusercontent.com/57343545/190352035-a19ee90c-e097-4e93-8839-8e117d80852f.png)
+
+</div>
