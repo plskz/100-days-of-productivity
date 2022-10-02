@@ -25,8 +25,9 @@
     - [ ] [Advanced CSS Layouts](https://frontendmasters.com/courses/advanced-css-layouts/)
     - [ ] [Dynamic CSS with Custom Properties (aka CSS Variables)](https://frontendmasters.com/courses/css-variables/)
 - [x] [No BS TS](https://www.youtube.com/playlist?list=PLNqp92_EXZBJYFrpEzdO2EapvU0GOJ09n)
+- [x] [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+- [x] [30 days of Node by Nodejsera](https://nodejsera.com/30-days-of-node.html)
 - [ ] [Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
-- [ ] [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
 
 ### Projects List
 
