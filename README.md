@@ -24,6 +24,7 @@ More details about the challenge can be found here:
 |         Round          |  Start Date  |     End Date      |  Status  |
 | :--------------------: | :----------: | :---------------: | :------: |
 | [1](Round-1/README.md) | June 1, 2022 | September 8, 2022 | Finished |
+| [2](Round-2/README.md) | ------------ | ----------------- | -------- |
 
 ## Motivation
 
