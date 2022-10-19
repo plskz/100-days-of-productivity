@@ -1,5 +1,6 @@
 {
   "name": "100-days-of-productivity",
+  "description": "becoming one percent better everyday.",
   "version": "0.0.1-dev",
   "type": "module",
   "main": "index.js",
@@ -11,7 +12,7 @@
     "lint:ci": "prettier --check ."
   },
   "dependencies": {
-    "@erutidians/auto-dop": "^1.1.2"
+    "@erutidians/auto-dop": "^1.1.4"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
