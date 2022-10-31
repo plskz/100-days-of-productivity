@@ -11,6 +11,7 @@ Inspired by [Alexander Kallaway](https://github.com/Kallaway)'s #100DaysOfCode c
 
 More details about the challenge can be found here:
 
+- [auto-dop](https://github.com/Erutidians/auto-dop)
 - [100daysofcode.com](http://100daysofcode.com/)
 - [github.com/Kallaway/100-days-of-code](https://github.com/Kallaway/100-days-of-code)
 
