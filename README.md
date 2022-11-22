@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>100-days-of-productivity</h1>
+  <h1>100 Days of Productivity</h1>
   <h4>Kaizen · 改善</h4>
   <sub>becoming one percent better everyday.</sub>
 </div>
