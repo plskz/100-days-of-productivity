@@ -7,6 +7,18 @@
 </br>
 </br>
 
+<samp align="center">
+
+> **Note**
+>
+> I am currently doing [100 Days of SwiftUI](https://github.com/plskz/100SwiftUI/)
+>
+> I will update this repository soon.
+
+</samp>
+
+</br>
+
 Inspired by [Alexander Kallaway](https://github.com/Kallaway)'s #100DaysOfCode challenge.
 
 More details about the challenge can be found here:
