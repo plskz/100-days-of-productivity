@@ -7,16 +7,25 @@
 </br>
 </br>
 
+<div align="center">
+
+<a href="https://dub.sh/Aai" target="_blank">
+  <img alt="discord card profile" src="https://lanyard.cnrad.dev/api/90431685472038912?bg=1e1e2e&idleMessage=Just%20chillin%27%20at%20the%20moment..." />
+</a>
+
+</div>
+
+</br>
+</br>
+
 <samp align="center">
 
 > **Note**
->
-> I am currently doing [100 Days of SwiftUI](https://github.com/plskz/100SwiftUI/)
->
-> I will update this repository soon.
+> I'm currently doing [100 Days of SwiftUI](https://github.com/plskz/100SwiftUI/). I'll update this repository soon.
 
 </samp>
 
+</br>
 </br>
 
 Inspired by [Alexander Kallaway](https://github.com/Kallaway)'s #100DaysOfCode challenge.
