@@ -15,6 +15,6 @@
     "@erutidians/auto-dop": "^1.1.4"
   },
   "devDependencies": {
-    "prettier": "^2.7.1"
+    "prettier": "^2.8.7"
   }
 }

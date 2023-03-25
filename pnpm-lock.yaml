@@ -1,0 +1,28 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@erutidians/auto-dop': ^1.1.4
+  prettier: ^2.8.7
+
+dependencies:
+  '@erutidians/auto-dop': 1.1.4
+
+devDependencies:
+  prettier: 2.8.7
+
+packages:
+  /@erutidians/auto-dop/1.1.4:
+    resolution:
+      {
+        integrity: sha512-/rNbtVCWx2C/c5Ivxgx7PE0tLg+mv+4gm8eFCRsn/ppCLHvYHN5CWJTvl1lryXp1ob0hfEPl5knwNNOnO7d/IQ==,
+      }
+    dev: false
+
+  /prettier/2.8.7:
+    resolution:
+      {
+        integrity: sha512-yPngTo3aXUUmyuTjeTUT75txrf+aMh9FiD7q9ZE/i6r0bPb22g4FsE6Y338PQX1bmfy08i9QQCB7/rcUAVntfw==,
+      }
+    engines: { node: '>=10.13.0' }
+    hasBin: true
+    dev: true
