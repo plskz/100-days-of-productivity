@@ -4,18 +4,18 @@
 | :--------: | :-------: | :------: |
 |    TODO    | --------- | -------- |
 
-### Reminders
+## Reminders
 
 - TODO
 - TODO
 
-### Goals
+## Goals
 
 - [ ] TODO
 - [ ] TODO
 - [ ] TODO
 
-### Projects List
+## Projects List
 
 |  #  | Project Title | Completed On |
 | :-: | :-----------: | :----------: |

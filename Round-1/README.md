@@ -4,12 +4,12 @@
 | :-----------------------: | :-------: | :------: |
 | [June 1, 2022](day001.md) | --------- | On-going |
 
-### Reminders
+## Reminders
 
 - Learn something new everyday
 - Make some real world projects for my portfolio
 
-### Goals
+## Goals
 
 - [ ] [FreeCodeCamp:](https://www.freecodecamp.org/learn/)
   - [x] Complete [FreeCodeCamp: Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
@@ -29,7 +29,7 @@
 - [x] [30 days of Node by Nodejsera](https://nodejsera.com/30-days-of-node.html)
 - [ ] [Conquering Responsive Layouts](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
 
-### Projects List
+## Projects List
 
 |  #  |                                Project Title                                |     Completed On     |
 | :-: | :-------------------------------------------------------------------------: | :------------------: |
